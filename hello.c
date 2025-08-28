@@ -1,5 +1,5 @@
 /**
- * Author: Aiden Kimmerling, Chloe Hogan
+ * Author: Aiden Kimmerling
  * Date: 2025/8/28
  *
  * A simple name program in C
@@ -11,10 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Chloe Hogan!\n");
-  printf("robotics engineering\n");
-
-  printf("\nAiden Kimmerling\n");
+  printf("Aiden Kimmerling!\n");
   printf("Computer Science\n");
 
   return 0;
