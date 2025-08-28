@@ -1,5 +1,5 @@
 /**
- * Author: Aiden Kimmerling
+ * Author: Aiden Kimmerling, Chloe Hogan
  * Date: 2025/8/28
  *
  * A simple name program in C
